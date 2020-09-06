@@ -8,9 +8,9 @@
 </ul>
 
 <h4>To Install on your local host</h4>
-<p>
-> 1. Clone the repository on your pc.
-> 2. Open the directory of the cloned project in terminal
-> 3. Enter "npm start"
-</p>
+<ol>
+<li>Clone the repository on your pc.</li>
+<li>Open the directory of the cloned project in terminal.</li>
+<li>Enter "npm start".</li>
+</ol>
 
