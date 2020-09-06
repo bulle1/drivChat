@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  background-image: linear-gradient(46deg, #0093E9 0%, #80D0C7 100%);
   color: white;
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
@@ -67,7 +67,7 @@ form button:hover {
 
 .trash-btn,
 .complete-btn {
-  background: #ff6f47;
+  background: #e63946;
   color: white;
   border: none;
   padding: 1rem;
@@ -75,7 +75,7 @@ form button:hover {
   font-size: 1rem;
 }
 .complete-btn {
-  background: rgb(11, 212, 162);
+  background: #8ac926;
 }
 .todo-item {
   padding: 0rem 0.5rem;
@@ -115,10 +115,10 @@ select {
   overflow: hidden;
 }
 select {
-  color: #ff6f47;
+  color: #457b9d;
   font-family: "Poppins", sans-serif;
   cursor: pointer;
-  width: 12rem;
+  width: 15rem;
 }
 /* Arrow */
 .select::after {
