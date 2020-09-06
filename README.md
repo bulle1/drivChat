@@ -1,5 +1,5 @@
 <h2>A Basic To-Do List</h2>
-<p>This is a basic to-do list which stores data in the local storage for future use.</p>
+<p>This is a basic to-do list which stores your tasks in the for future use.</p>
 <h4>Stack used : </h4>
 <ul>
     <li>React.js</li>
